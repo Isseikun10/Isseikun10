@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Edwin Bonilla, tengo 27 años y soy de México.</h2>
+<h2 align="left">Hola 👋! Mi nombre es Edwin Bonilla, tengo 28 años y soy de México.</h2>
 
 ###
 
